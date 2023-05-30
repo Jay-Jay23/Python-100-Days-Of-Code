@@ -1,7 +1,7 @@
 # Python-100-Days-Of-Code
 Mastering Python by building 100 projects in 100 days
 
-⚡# Beginner Day 1-14
+# ⚡Beginner Day 1-14
 
 <ul>
     <li>Day 01: Working With Variables in Python to Manage Data</li>
