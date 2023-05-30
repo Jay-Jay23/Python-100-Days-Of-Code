@@ -1,5 +1,5 @@
 # Python-100-Days-Of-Code
-I have used the <a href="https://www.udemy.com/course/100-days-of-code/">"100 Days of Code: Python Bootcamp"</a> course as guiding materials and for project ideas while participating in the #100DaysOfCode challenge.
+I have used the <a href="https://www.udemy.com/course/100-days-of-code/">"100 Days of Code: Python Bootcamp"</a> course as guiding materials and for project ideas while participating in the <a href="https://www.100daysofcode.com/">#100DaysOfCode challenge</a>.
 
 This repository will contains all 1000 projects I have created during the challenge in the project directory. Some of the projects were create while coding along the lessons, but most are spin-off projects I have created by myself using the technology introduced in the video lesson.
 
