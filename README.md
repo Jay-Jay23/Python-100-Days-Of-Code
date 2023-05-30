@@ -6,11 +6,11 @@ This repository will contains all 100 projects I have created during the challen
 ## ⚡ Beginner Day 1-14
 
 <ul>
-    <li>Day 01: Working With Variables in Python to Manage Data</li>
-    <li>Day 02: Understanding Data Types and How to Manipulate Strings</li>
-    <li>Day 03: Control Flow and Logical Operators</li>
-    <li>Day 04: Randomisation and Python Lists</li>
-    <li>Day 05: Python Loops</li>
+    <li><a href="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/tree/main/Projects/Day%201">Day 01:</a> Working With Variables in Python to Manage Data</li>
+    <li><a href="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/tree/main/Projects/Day%202">Day 02:</a> Understanding Data Types and How to Manipulate Strings</li>
+    <li><a href="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/tree/main/Projects/Day%203">Day 03:</a> Control Flow and Logical Operators</li>
+    <li><a href="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/tree/main/Projects/Day%204">Day 04:</a> Randomisation and Python Lists</li>
+    <li><a href="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/tree/main/Projects/Day%205">Day 05:</a> Python Loops</li>
     <li>Day 06: Python Functions & Karel</li>
     <li>Day 07: Hangman</li>
     <li>Day 08: Function Parameters & Caesar Cipher</li>
