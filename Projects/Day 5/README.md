@@ -8,3 +8,12 @@ Instructions:
 </ul>
 
 ## Output:
+
+## Code:
+<details>
+  <summary>Solutions</summary>
+  <ul>
+    <li><a href="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%205/logs/exercise%201.py">Average Height</a></li>
+  </ul>
+</details>
+
