@@ -1,1 +1,1 @@
-# Contain project pitures
+# Contain project pictures
