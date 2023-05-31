@@ -8,7 +8,7 @@ Instructions:
 </ul>
 
 ## Output:
-
+<img src="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%205/logs/exercise-1.1.png" alt="Exercise1">
 ## Code:
 <details>
   <summary>Solutions</summary>
