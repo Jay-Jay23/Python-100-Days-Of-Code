@@ -18,6 +18,8 @@ Instructions:
   </ul>
 </details>
 
+
+
 ## Exercise 2 - High Score 
 Instructions:
 <ul
@@ -37,11 +39,14 @@ Instructions:
   </ul>
 </details>
 
+
+
 ## Exercise 3 - Adding Even Numbers 
 Instructions:
 <ul
-<li>You are going to write a program that calculates the average student height from a List of heights.</li>
-<li>Important You should not use the <b>sum()</b> or<b>len()</b> functions in your answer. You should try to replicate their functionality using what you have learnt about for loops.</li>
+<li>You are going to write a program that calculates the sum of all the even numbers from 1 to 100. Thus, the first even number would be 2 and the last one is 100:</li>
+<li>i.e. 2 + 4 + 6 + 8 +10 ... + 98 + 100</li>
+<li>Important, there should only be 1 print statement in your console output. It should just print the final total and not every step of the calculation.</li>
 </ul>
 
 ## Output:
@@ -55,11 +60,16 @@ Instructions:
   </ul>
 </details>
 
-## Exercise 4 - Average Height 
+
+
+## Exercise 4 - FizzBuzz 
 Instructions:
 <ul
-<li>You are going to write a program that calculates the average student height from a List of heights.</li>
-<li>Important You should not use the <b>sum()</b> or<b>len()</b> functions in your answer. You should try to replicate their functionality using what you have learnt about for loops.</li>
+<li>You are going to write a program that automatically prints the solution to the FizzBuzz game.</li>
+<li>Your program should print each number from 1 to 100 in turn.</li>
+<li>When the number is divisible by 3 then instead of printing the number it should print "Fizz".</li>
+<li>When the number is divisible by 5, then instead of printing the number it should print "Buzz".`</li>
+<li>And if the number is divisible by both 3 and 5 e.g. 15 then instead of the number it should print "FizzBuzz"</li>
 </ul>
 
 ## Output:
