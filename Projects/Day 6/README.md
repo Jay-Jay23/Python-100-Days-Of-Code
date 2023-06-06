@@ -1,6 +1,6 @@
 # Python Functions & Karel
 
-## Project: Create a Password Generator
+## Project: Escaping the Maze
 <img src="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%206/Logs/escaping_the_maze.gif" alt="generator">
 
 
