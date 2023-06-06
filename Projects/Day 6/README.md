@@ -1,7 +1,7 @@
 # Python Functions & Karel
 
 ## Project: Create a Password Generator
-<img src="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%205/Password-generator.gif" alt="generator">
+<img src=" alt="generator">
 
 
 ## Exercise 1 - Defining and Calling Python Functions
@@ -15,7 +15,7 @@ Instructions:
     
 
 ## Output:
-<img src="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%205/logs/exercise-1.1.png" alt="exercise1">
+<img src="" alt="exercise1">
 
 ## Code:
 <details>
