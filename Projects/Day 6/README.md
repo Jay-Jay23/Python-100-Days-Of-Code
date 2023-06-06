@@ -31,7 +31,7 @@ Instructions:
 </ul>
  
 ## Output:
-<img src="" alt="exercise2">
+<img src="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%206/Logs/exercise%202.1.png" alt="exercise2">
 
 ## Code:
 <details>
