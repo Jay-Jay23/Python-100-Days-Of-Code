@@ -11,7 +11,7 @@ This repository will contains all 100 projects I have created during the challen
     <li><a href="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/tree/main/Projects/Day%203">Day 03:</a> Control Flow and Logical Operators</li>
     <li><a href="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/tree/main/Projects/Day%204">Day 04:</a> Randomisation and Python Lists</li>
     <li><a href="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/tree/main/Projects/Day%205">Day 05:</a> Python Loops</li>
-    <li>Day 06: Python Functions & Karel</li>
+    <li><a href="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/tree/main/Projects/Day%206">Day 06:</a> Python Functions & Karel</li>
     <li>Day 07: Hangman</li>
     <li>Day 08: Function Parameters & Caesar Cipher</li>
     <li>Day 09: Dictionaries, Nesting and The Secret Auction</li>
