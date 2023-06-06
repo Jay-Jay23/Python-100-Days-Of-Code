@@ -16,7 +16,7 @@ Instructions:
 <img src="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%206/Logs/exercise%201.1.png" alt="exercise1">
 
 
-## Exercise 1 - The Hurdles Loop Challenge
+## Exercise 2 - The Hurdles Loop Challenge
 Instructions:
 <ul
 <li>Reeborg's World Hurdles Challenge 1</li>
