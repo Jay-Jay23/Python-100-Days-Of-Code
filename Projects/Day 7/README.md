@@ -1,7 +1,7 @@
 # Hangman
 
 ## Project: Hangman
-<img src="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%206/Logs/escaping_the_maze.gif" alt="generator">
+<img src="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%207/hangman.gif" alt="hangman">
 
 
 ## Challenge 1 - Picking a Random Words and Checking Answers
