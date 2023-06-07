@@ -13,7 +13,7 @@ Instructions:
 </ul>
  
 ## Output:
-<img src="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%206/Logs/exercise%201.1.png" alt="exercise1">
+<img src="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%207/Logs/challeng%201.1.png" alt="challenge1">
 
 ## Solution:
 <a href="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%207/Logs/challenge%201.py">Solution - How to Check the User's Answer</a>
