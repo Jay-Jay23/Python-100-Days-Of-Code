@@ -29,7 +29,7 @@ Instructions:
 </ul>
  
 ## Output:
-<img src="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%206/Logs/exercise%202.1.png" alt="exercise2">
+<img src="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%207/Logs/challeng%202.1.png" alt="exercise2">
 
 ## Solution:
 <a href="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%207/Logs/challenge%202.py">Solution - How to Replace the Blanks</a>
