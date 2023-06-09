@@ -50,7 +50,9 @@ Instructions:
 Instructions:
 <ul>
     <li> Create a variable called 'lives' to keep track of the number of lives left.</li>
-<li>Set 'lives' to equal 6.</li>
+    <li>Set 'lives' to equal 6.</li>
+    <li>If guess is not a letter in the chosen_word, Then reduce 'lives' by 1.</li> 
+    <li>If lives goes down to 0 then the game should stop and it should print "You lose."</li>
 </ul>
  
 ## Output:
