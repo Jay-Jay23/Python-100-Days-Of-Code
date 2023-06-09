@@ -46,19 +46,17 @@ Instructions:
 ## Solution:
 <a href="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%207/Logs/challenge%203.py">How to Check if the Player Won</a>
 
-## Challenge 4 - Replacing Blanks with Guesses
+## Challenge 4 - How to Keep Track of the Player's Lives
 Instructions:
 <ul>
-<li> Create an empty List called display</li>
-<li>For each letter in the chosen_word, add a "_" to 'display'.</li>
-<li>So if the chosen_word was "apple", display should be ["_", "_", "_", "_", "_"] with 5 "_" representing each letter to guess.</li>
-<li>Loop through each position in the chosen_word</li>
+    <li> Create a variable called 'lives' to keep track of the number of lives left.</li>
+</li>Set 'lives' to equal 6.</li>
 </ul>
  
 ## Output:
 <img src="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%207/Logs/challeng%204.1.png" alt="exercise4">
 
 ## Solution:
-<a href="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%207/Logs/challenge%204.py">Solution - How to Replace the Blanks</a>
+<a href="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%207/Logs/challenge%204.py">Solution - How to Keep Track of the Player's Lives</a>
 
 
