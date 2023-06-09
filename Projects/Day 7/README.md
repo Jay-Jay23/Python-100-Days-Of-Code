@@ -50,7 +50,7 @@ Instructions:
 Instructions:
 <ul>
     <li> Create a variable called 'lives' to keep track of the number of lives left.</li>
-</li>Set 'lives' to equal 6.</li>
+<li>Set 'lives' to equal 6.</li>
 </ul>
  
 ## Output:
