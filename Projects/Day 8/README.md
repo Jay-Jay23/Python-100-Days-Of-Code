@@ -1,7 +1,7 @@
 # Function Parameters & Caesar Cipher
 
 ## Project: Caesar Cipher
-<img src="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%208/caesar_cipher.gif" alt="cipher">
+<img src="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%208/Logs/caesar_cipher.gif" alt="cipher">
 
 
 ## Exercise 1 - Paint Area Calculator
@@ -12,7 +12,8 @@ Instructions:
 </ul>
  
 ## Output:
-<img src="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%208/Logs/exercise%201.1.png" alt="exercise1">
+<img src="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%208/Logs/exercise1.1.png" alt="exercise1">
+
 
 ## Solution:
 <a href="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%208/Logs/exercise%201.py">Solution - Paint Area Calculator</a>
@@ -25,7 +26,7 @@ Instructions:
 </ul>
  
 ## Output:
-<img src="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%208/Logs/exercise%202.1.png" alt="exercise2">
+<img src="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%208/Logs/exercise2.1.png" alt="exercise2">
 
 ## Solution:
 <a href="https://github.com/Jay-Jay23/Python-100-Days-Of-Code/blob/main/Projects/Day%207/Logs/exercise%202.py">Solution - Prime Number Checker</a>
